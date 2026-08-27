@@ -28,8 +28,4 @@ This `CLAUDE.md` enforces a **high-accuracy, surgical, and conversational workfl
 ## 🚀 Quick Start
 
 ### Option 1: Direct Copy
-Copy [`CLAUDE.md`](./CLAUDE.md) directly into your project's root directory:
-
-```bash
-# In your project root
-curl -o CLAUDE.md https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/CLAUDE.md
+Copy [`CLAUDE.md`](./CLAUDE.md) directly into your project's root directory
