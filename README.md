@@ -1,6 +1,35 @@
-# Brilliant-Claude-Skills
-These are instruction documents Claude Code can read for improving coding quality and behavior.
+# ⚡ Ultimate CLAUDE.md for Claude Code
 
-These instructions absolutely wasn't inspired by Andrej Karpathy (check him out he's a genius: https://x.com/karpathy/status/2015883857489522876?s=20), only my big fat brain.
+> **The battle-tested, anti-hallucination, and anti-overengineering configuration for Anthropic's Claude Code.**
 
-So, jokes aside what this repo does is it removes most of the guessing work for what to do. It teaches the agent to outsource instead of insource. And ask the user stuff.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 🎯 The Problem
+
+By default, AI coding agents love to:
+- ❌ **One-shot entire codebases** and produce broken architecture.
+- ❌ **Overcomplicate simple tasks** with unnecessary abstractions and libraries.
+- ❌ **Touch unrelated code**, breaking working features silently.
+- ❌ **Assume and guess** instead of asking clarifying questions.
+
+## 💡 The Solution
+
+This `CLAUDE.md` enforces a **high-accuracy, surgical, and conversational workflow**:
+
+1. **Mandatory Planning & Verification:** Prevents silent failures by creating clear `PLAN.md` phases and low-level specifications.
+2. **Conversational Guardrails:** Forces Claude to stop, ask clarifying questions, and clarify ambiguity *before* writing code.
+3. **Extreme Simplicity:** Rejects bloat, single-use abstractions, and speculative error handling.
+4. **Surgical Diffs:** Modifies only the lines needed to solve the task.
+
+---
+
+## 🚀 Quick Start
+
+### Option 1: Direct Copy
+Copy [`CLAUDE.md`](./CLAUDE.md) directly into your project's root directory:
+
+```bash
+# In your project root
+curl -o CLAUDE.md https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/CLAUDE.md
