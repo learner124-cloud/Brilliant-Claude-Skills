@@ -1,0 +1,11 @@
+{
+  "name": "blueprint",
+  "description": "Blueprint — behavioral guidelines for coding agents to ensure accuracy, simplicity, and surgical changes",
+  "version": "1.0.0",
+  "author": {
+    "name": "freebuff"
+  },
+  "license": "MIT",
+  "keywords": ["guidelines", "best-practices", "coding", "workflow"],
+  "skills": ["./skills/blueprint"]
+}
