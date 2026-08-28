@@ -6,7 +6,7 @@ tags: [claude, ai, workflow, guidelines, claude-code]
 
 A detailed workflow and behavioral guideline for Claude Code. Merge with project-specific instructions as needed.
 
-> **Tradeoff:** This is much slower than traditional workflows. It biases toward accuracy over speed.
+> **Tradeoff:** This is much slower than traditional workflows. It biases toward accuracy over speed. For trivial tasks use judegement.
 
 ---
 
